@@ -1,0 +1,1 @@
+Python essentials educational assignment at Coding Dojo
